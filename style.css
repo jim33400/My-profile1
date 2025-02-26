@@ -1,0 +1,15 @@
+style.css
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+body {
+  color: rgb(10, 10, 10);     /* red */
+  body {
+  font-family: Times, serif;
+	font-family: Arial, sans-serif;
+	font-family: Courier, monospace;
+}
+body {
+  font-size: 30px;
+	line-height: 1.8;
+	letter-spacing: 1px;
